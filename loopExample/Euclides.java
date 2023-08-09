@@ -1,4 +1,4 @@
-package IOExamples;
+package loopExample;
 
 public class Euclides {
 
